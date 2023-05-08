@@ -18,7 +18,7 @@
 
     * The first five rows of the scaled DataFrame should appear as follows:
 
-     <img width="639" alt="Screenshot 2023-05-07 at 9 15 33 PM" src="https://user-images.githubusercontent.com/119274891/236713616-5467173d-af68-4393-af26-834464d4879b.png">
+     <img width="100%" alt="Screenshot 2023-05-07 at 9 15 33 PM" src="https://user-images.githubusercontent.com/119274891/236713616-5467173d-af68-4393-af26-834464d4879b.png">
 
 ### Find the Best Value for k Using the Original Scaled DataFrame
 
@@ -68,7 +68,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for `
   
     * The first five rows of the PCA DataFrame should appear as follows:
 
-<img width="610" alt="Screenshot 2023-05-07 at 9 20 09 PM" src="https://user-images.githubusercontent.com/119274891/236713926-36eec78a-0a61-4eda-a545-091de8e2afa5.png">
+<img width="100%" alt="Screenshot 2023-05-07 at 9 20 09 PM" src="https://user-images.githubusercontent.com/119274891/236713926-36eec78a-0a61-4eda-a545-091de8e2afa5.png">
 
 ### Find the Best Value for k Using the PCA Data
 
