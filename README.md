@@ -1,6 +1,6 @@
 # CryptoClustering
 
-<img width="794" alt="Screenshot 2023-05-07 at 9 12 08 PM" src="https://user-images.githubusercontent.com/119274891/236713319-ad0e39e3-a36c-4635-a298-589bd1cd0f5c.png">
+<img width="100%" alt="Screenshot 2023-05-07 at 9 12 08 PM" src="https://user-images.githubusercontent.com/119274891/236713319-ad0e39e3-a36c-4635-a298-589bd1cd0f5c.png">
 
 ## Instructions
 
