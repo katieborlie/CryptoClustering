@@ -2,6 +2,8 @@
 
 <img width="100%" alt="Screenshot 2023-05-07 at 9 12 08 PM" src="https://user-images.githubusercontent.com/119274891/236713319-ad0e39e3-a36c-4635-a298-589bd1cd0f5c.png">
 
+#### In this challenge, I use my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+
 ## Instructions
 
 1. Rename the `Crypto_Clustering_starter_code.ipynb` file as `Crypto_Clustering.ipynb`.
